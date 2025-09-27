@@ -9,11 +9,7 @@ Se cambia el icono a contactos--AÑADIMOS EN GITHUB
 
 EDICIÓN EN GITHUB
 
-<<<<<<< HEAD
-Prueba Github vs gitlab
-=======
 Prueba ""ya empieza con github""
->>>>>>> appbar
 
 Prueba 2 sadasdsad
 
